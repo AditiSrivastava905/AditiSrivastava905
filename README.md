@@ -119,8 +119,7 @@ A creative computer-vision project that converts an image into a **line-based sk
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiSrivastava905&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSrivastava905&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AditiSrivastava905&theme=tokyonight" />
 </p>
 
 ---
